@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamsingh872
-- 👀 I’m interested in C++
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me www.linkedin.com/in/shubham-kumar-8295bb227
 
