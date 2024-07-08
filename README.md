@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" height="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-🌱 I’m currently learning NodeJs<br><br>💬 Ask me about JavaScript, ReactJs<br><br>📫 How to reach me <a href="kshubhamsingh96311@gmail.com" target="_blank"><br><br>⚡ Fun fact I am Funny
+🌱 I’m currently learning NodeJs<br><br>💬 Ask me about JavaScript, ReactJs<br><br>📫 How to reach me <a href="kshubhamsingh96311@gmail.com" target="_blank">kshubhamsingh96311@gmail.com</a><br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
