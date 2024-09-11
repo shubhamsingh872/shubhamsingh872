@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development."></p>
 
 # 💫 About Me:
 <img align="center" alt="Coding" width="300" height="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
