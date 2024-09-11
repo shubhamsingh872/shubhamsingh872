@@ -2,9 +2,7 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">💬 Ask me about Web Development</h3>
-- 📫 How to reach me **kshubhamsingh96311@gmail.com**
-<p align="left"> <img width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /> </p>
+<h3 align="center">Learning Full stack web development</h3>
 
 
 ## 🌐 Socials:
