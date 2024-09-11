@@ -1,9 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></p>
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ujjwal</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">💬 Ask me about Web Development</h3>
-- 📫 How to reach me **ujjwalsangwan2003@gmail.com**
+- 📫 How to reach me **kshubhamsingh96311@gmail.com**
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" /> </p>
 
 
