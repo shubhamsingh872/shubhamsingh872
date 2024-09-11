@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></p>
 
 # 💫 About Me:
 <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
