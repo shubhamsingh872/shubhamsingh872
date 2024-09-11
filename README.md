@@ -5,7 +5,8 @@
 <h3 align="center">Learning Full stack web development</h3>
 
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-- 🔭 I’m currently working on **web develpoment**
+
+- 🔭 I’m currently working on **Web Development**
 
 - 👯 I’m looking to collaborate on **open source project**
 
