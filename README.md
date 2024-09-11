@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">Learning Full stack web development</h3>
 
-<img align="right" alt="Coding" height="220" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" alt="Coding" height="210" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 - 🔭 I’m currently working on **Web Development**
 
